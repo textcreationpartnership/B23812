@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Lancasters massacre, or, The nevv vvay of advancing the Protestant religion and expressing loyaltie to the King and Queen namely to cut the throats of Protestant men, women and innocent children as lately the papists and malignants did at Lancaster / related in a letter from a Gentleman of great note in Lancashire, to a friend in London ...</title>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B23812</idno><idno type="EEBO-CITATION">12146812</idno>
+  <idno type="VID">197140</idno>
+  <idno type="EEBO-PROQUEST">2248574432</idno>
+  
+            <idno type="STC">Wing H73B</idno>
+            <idno type="OCLC">12146812</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B23812)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 197140)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 243:E94, no 27)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Lancasters massacre, or, The nevv vvay of advancing the Protestant religion and expressing loyaltie to the King and Queen namely to cut the throats of Protestant men, women and innocent children as lately the papists and malignants did at Lancaster / related in a letter from a Gentleman of great note in Lancashire, to a friend in London ...</title>
+                  <author>J. H.</author>
+               </titleStmt>
+               <extent>[2],4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Tho. Vnderhill ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>April 1, 1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed on p. 4: J.H.</note>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Lancashire (England) --  History.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:197140:1"/>
+            <p>LANCASTERS MASSACRE: <hi>OR,</hi> THE NEVV VVAY OF Advancing the Protestant Religion, and expressing Loyaltie to the KING and QUEENE.</p>
+            <p>NAMELY, To cut the throats of Protestant men, women, and innocent Children, as lately the Papists and Malignants did at <hi>Lancaster.</hi>
+            </p>
+            <p>Related in a Letter from a Gentleman of great note in <hi>Lancashire,</hi> to a friend in <hi>London,</hi> who the Bookseller can name: which Letter is here printed <hi>verbatim.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>The. Ʋnderhill</hi> at the Bible in Woods<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <hi>April</hi> 1. 1643.</p>
+            <pb facs="tcp:197140:2"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:197140:3"/>
+            <pb n="1" facs="tcp:197140:3"/>
+            <head>A COPIE OF A LETTER FROM A Gentleman of great worth in <hi>Lancashire,</hi> to his friend in <hi>London,</hi> who the Stationer can name.</head>
+            <p>
+               <seg rend="decorInit">I</seg> Have not time to write any large discourse, the news is not so good but you may heare enough of it; yet rather then let you be abused with falacies, I will give you the summe of all briefly. After the ta<g ref="char:EOLhyphen"/>king the Ordnance from the Spanish ship, we carried them all safe to the Castle of <hi>Lancaster,</hi> within few dayes after the Earl of <hi>Darbie</hi> ad<g ref="char:EOLhyphen"/>vanced towards us, all the Papists rising whol<g ref="char:EOLhyphen"/>ly with him. Our Major having notice of it,
+<pb n="2" facs="tcp:197140:4"/>sent to <hi>Boulton</hi> and <hi>Manchester</hi> for relief for us: Mr. <hi>Ashton</hi> undertook the charge, and advan<g ref="char:EOLhyphen"/>ced as farre as <hi>Garston,</hi> and hearing that the E<g ref="char:EOLhyphen"/>nemie fled upon his coming, he returned to <hi>Preston.</hi> Whereupon the Earl re-advanced to<g ref="char:EOLhyphen"/>wards us; and after some two houres hard fight, with the great slaughter of our Enemie, (for we could at several times see two or three of their Colours fall at once, and bodies lye on heaps) they dispersed themselves among the hedges, and at the back of the houses, and set the Town on fire. This inforced our men to retire to the Castle; whereupon the Enemie entred the Town, and killed man, woman, and children with all barbarous crueltie, drag<g ref="char:EOLhyphen"/>ging poore people from their houses, and cut<g ref="char:EOLhyphen"/>ting their throats with Butchers knives: they set fire round the Town and departed. We had no victuals in the Castle, the Well there was presently drunk drie: but we issued out again into the burned Town, took divers of the E<g ref="char:EOLhyphen"/>nemies there remaining prisoners, and out of the store yet unburned, we victualled our selves for a good time. Thus we lay two or three houres, the Enemie encompassing us on
+<pb n="3" facs="tcp:197140:4"/>all sides but (we were without any feare of danger) at last the Major Generall and Master <hi>Ashton</hi> came to relieve us, they drew all the strength of Preston and adjacent parts with them; the Earl lying at Ellwell they drew to <hi>Cokeram,</hi> and so passed by him to us: the Earle who was no way able to have fought with them, took this opportunitie of the Town of Prestons weaknesse, and fell back upon it, and took it that night. Master <hi>Hopwood</hi> and <hi>Peter Shaw</hi> were there taken, and yet escaped again: I know not the losse there they received, I am sure it was over much; at my going post I left my Armour, Clothes, and an hundred Mus<g ref="char:EOLhyphen"/>kets there, these are lost, I having nothing left. Vpon notice the Earl was marched towards Preston, Sargeant Major <hi>Sparrow,</hi> and Master <hi>Ashton</hi> followed him; he had the Town be<g ref="char:EOLhyphen"/>fore they came: and as we are certainly inform<g ref="char:EOLhyphen"/>ed, all this crueltie arises from the Earle of <hi>Darbie,</hi> who hath taken all the great Papists into his Counsell, who before were not ad<g ref="char:EOLhyphen"/>mitted, who have put him upon this cruell massacre, and all rise with him as one man, and if it be in their power will not leave a true Pro<g ref="char:EOLhyphen"/>testant
+<pb n="4" facs="tcp:197140:5"/>in these parts. If God and good people do not look upon us, which God grant they may, this Countrey will be open for the Queene to passe with her forces, who hath al<g ref="char:EOLhyphen"/>readie sent 1100 to <hi>Shipton,</hi> toward <hi>Blagborne,</hi> being in haste I cannot inlarge: But rest,</p>
+            <closer>
+               <dateline>
+                  <hi>Lancaster,</hi>
+                  <date>the 25. <hi>March.</hi> 1643.</date>
+               </dateline>
+               <signed>Your faithfull friend, <hi>J. H.</hi>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:197140:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
